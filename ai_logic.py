@@ -1,4 +1,4 @@
-# used MCST algorithm
+# used MCTS algorithm
 
 from logic import random_move, move_down, move_left, move_right, move_up, add_new_2, get_current_state
 from copy import deepcopy
